@@ -10,6 +10,8 @@ link_directories(${GLFW_DIR}/lib-vc2022)
 
 add_executable(pixi_cpp main.cpp
         pixi/Point.cpp
-        pixi/Point.h)
+        pixi/Point.h
+        pixi/Rectangle.cpp
+        pixi/Rectangle.h)
 
 target_link_libraries(pixi_cpp glfw3.lib opengl32.lib user32.lib gdi32.lib shell32.lib)

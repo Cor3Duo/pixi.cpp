@@ -4,5 +4,9 @@
 
 #include "Point.h"
 
-Point::Point(const int x, const int y) : x(x), y(y) {
+Point::Point(const double x, const double y) : x(x), y(y) {
+}
+
+Point Point::clone() const {
+    return {x, y};
 }

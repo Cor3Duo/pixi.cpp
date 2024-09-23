@@ -7,14 +7,12 @@
 
 class Point {
 public:
-    Point(int x, int y);
+    Point(double x, double y);
 
-    [[nodiscard]] Point clone() const {
-        return {x, y};
-    }
+    [[nodiscard]] Point clone() const;
 
-    int x;
-    int y;
+    double x;
+    double y;
 };
 
 

@@ -1,7 +1,6 @@
-#include "pixi/Point.h"
+#include <iostream>
 
 int main() {
-    Point point(10, 10);
 
     return 0;
 }
