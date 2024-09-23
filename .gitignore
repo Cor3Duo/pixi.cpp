@@ -1,0 +1,35 @@
+# CLion
+.idea/
+*.iml
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+CMakeLists.txt.user
+CMakeLists.txt.user.cmake
+
+# Build output
+build/
+bin/
+out/
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.dylib
+*.a
+
+# User-specific files
+*.user
+*.sublime-workspace
+*.sublime-project
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+*.DS_Store
