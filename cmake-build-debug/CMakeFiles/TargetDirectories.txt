@@ -1,3 +1,0 @@
-C:/Users/caeta/CLionProjects/pixi.cpp/cmake-build-debug/CMakeFiles/pixi_cpp.dir
-C:/Users/caeta/CLionProjects/pixi.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/caeta/CLionProjects/pixi.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

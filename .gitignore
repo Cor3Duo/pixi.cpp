@@ -10,6 +10,7 @@ Makefile
 *.cmake
 CMakeLists.txt.user
 CMakeLists.txt.user.cmake
+cmake-build-debug
 
 # Build output
 build/
