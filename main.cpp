@@ -1,6 +1,7 @@
-#include <iostream>
+#include "pixi/Point.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Point point(10, 10);
+
     return 0;
 }
